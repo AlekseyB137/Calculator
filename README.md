@@ -1,1 +1,1 @@
-# Calculator
+# Калькулятор для тестового задания Kata Academy
